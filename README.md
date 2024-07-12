@@ -14,8 +14,7 @@
 ***
 <h2 align="center">Installation</h2>
 
-## Android(Termux)
-### Auto Installation:
+### Android(Termux)
 ```console
 apt update && apt upgrade -y; pkg install python git -y; git clone https://github.com/RenderBolt96/Nuke-Bot.git; cd Discord-Nuke-Bot; python -m pip install -r requirements.txt -y; python nuke-bot.py
 ```
