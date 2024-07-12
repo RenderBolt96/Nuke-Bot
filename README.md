@@ -16,7 +16,17 @@
 
 ### Android(Termux)
 ```console
-apt update && apt upgrade -y; pkg install python git -y; git clone https://github.com/RenderBolt96/Nuke-Bot.git; cd Discord-Nuke-Bot; python -m pip install -r requirements.txt -y; python nuke-bot.py
+apt update && apt upgrade
+
+pkg install python git
+
+git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+
+cd Discord-Nuke-Bot
+
+python -m pip install -r requirements.txt
+
+python nuke-bot.py
 ```
 ***
 ### Subsequent launches
