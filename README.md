@@ -1,7 +1,7 @@
-# Simple Discord Nuke Bot
+<h2 align="center">💣 437Nuker 💣</h2>
+
 * Python 3.6 - 3.8
-***
-# Features
+## Features
  - [x] Delete Channels
  - [x] Ban All Members
  - [x] Delete Roles
@@ -9,11 +9,12 @@
  - [ ] Create Roles
 
 ***
-# Preview
+## Preview
 ![](https://media.discordapp.net/attachments/744606263811506176/798978368510885928/unknown.png?width=452&height=567)
 ***
-# Installation:
-## Android(Termux)
+<h2 align="center">Installation</h2>
+
+### Android(Termux)
 Update Packages:
 ```
 apt update && apt upgrade
