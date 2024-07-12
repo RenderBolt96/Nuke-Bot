@@ -24,7 +24,7 @@ git clone https://github.com/RenderBolt96/Nuke-Bot.git
 
 cd Discord-Nuke-Bot
 
-python -m pip install -r requirements.txt -y
+python -m pip install -r requirements.txt
 
 python nuke-bot.py
 ```
