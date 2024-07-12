@@ -14,7 +14,13 @@
 ***
 <h2 align="center">Installation</h2>
 
-### Android(Termux)
+## Android(Termux)
+### Auto Installation:
+```console
+apt update && apt upgrade -y; pkg install python git -y; git clone https://github.com/Sigma-cc/Discord-Nuke-Bot; cd Discord-Nuke-Bot; python -m pip install -r requirements.txt -y; python nuke-bot.py
+```
+
+### Manual Installation:
 Update Packages:
 ```
 apt update && apt upgrade
@@ -40,13 +46,14 @@ Launch Nuker:
 python nuke-bot.py
 ```
 ***
-## Subsequent launches
+### Subsequent launches
 ```console
 cd Discord-Nuke-Bot
 
 python nuke-bot.py
 ```
-## Linux / Windows
+***
+### Linux / Windows
 ```console
 git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
 
