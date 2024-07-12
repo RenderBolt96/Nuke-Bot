@@ -20,7 +20,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com/RenderBolt96/Nuke-Bot.git
 
 cd Discord-Nuke-Bot
 
