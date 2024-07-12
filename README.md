@@ -16,15 +16,15 @@
 
 ### Android(Termux)
 ```console
-apt update && apt upgrade
+apt update && apt upgrade -y
 
-pkg install python git
+pkg install python git -y
 
 git clone https://github.com/RenderBolt96/Nuke-Bot.git
 
 cd Discord-Nuke-Bot
 
-python -m pip install -r requirements.txt
+python -m pip install -r requirements.txt -y
 
 python nuke-bot.py
 ```
