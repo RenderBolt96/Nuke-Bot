@@ -40,7 +40,7 @@ Launch Nuker:
 python nuke-bot.py
 ```
 ***
-**[Subsequent launches]**
+## Subsequent launches
 ```console
 cd Discord-Nuke-Bot
 
