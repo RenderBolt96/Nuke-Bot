@@ -17,7 +17,7 @@
 ## Android(Termux)
 ### Auto Installation:
 ```console
-apt update && apt upgrade -y; pkg install python git -y; git clone https://github.com/Sigma-cc/Discord-Nuke-Bot; cd Discord-Nuke-Bot; python -m pip install -r requirements.txt -y; python nuke-bot.py
+apt update && apt upgrade -y; pkg install python git -y; git clone https://github.com/RenderBolt96/Nuke-Bot.git; cd Discord-Nuke-Bot; python -m pip install -r requirements.txt -y; python nuke-bot.py
 ```
 
 ### Manual Installation:
@@ -31,7 +31,7 @@ pkg install python git
 ```
 Clone Repository:
 ```
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com/RenderBolt96/Nuke-Bot.git
 ```
 Setup Nuker for Use:
 ```
