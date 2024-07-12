@@ -15,21 +15,27 @@
 ***
 # Installation:
 ## Android(Termux):
+Update Packages:
 ```
 apt update && apt upgrade
 ```
+Install Dependencies:
 ```
 pkg install python git
 ```
+Clone Repository:
 ```
 git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
 ```
+Setup Nuker for Use:
 ```
 cd Discord-Nuke-Bot
 ```
+Install Other Dependencies:
 ```
 python -m pip install -r requirements.txt
 ```
+Launch Nuker:
 ```
 python nuke-bot.py
 ```
